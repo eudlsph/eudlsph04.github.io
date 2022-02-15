@@ -1,2 +1,2 @@
-# eudlsph.github.io
+# eudlsph
 A starter web made by a novice website creator. Explore the world of books! &lt;3
